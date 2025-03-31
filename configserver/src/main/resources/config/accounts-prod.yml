@@ -1,0 +1,12 @@
+build:
+  version: "1.0"
+
+
+accounts:
+  message: "Welcome to BankApp Accounts PROD API application"
+  contactDetails:
+    name: "Felipe Albuquerque - Developer"
+    email: "kikoalbuquerque02@gmail.com"
+  onCallSupport:
+    - (83) 99999-9999
+    - (83) 88888-8888
